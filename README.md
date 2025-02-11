@@ -3,7 +3,6 @@
 ## 🌱 I’m currently learning and working on:
 - **Backend Development** with Laravel, PHP, and Python.
 - **Frontend Technologies** like HTML, CSS, JavaScript, and Bootstrap.
-- **Mobile App Development** with Flutter.
 
 ## 📈 My Stats
 ![Manthan Mistry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manthan-121&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
