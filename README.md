@@ -1,7 +1,7 @@
 # Hi there, I'm Manthan Mistry 👋
 
 ## 🌱 I’m currently learning and working on:
-- **Backend Development** with Laravel, PHP, and Python.
+- **Backend Development** with Laravel and PHP.
 - **Frontend Technologies** like HTML, CSS, JavaScript, and Bootstrap.
 
 ## 📈 My Stats
