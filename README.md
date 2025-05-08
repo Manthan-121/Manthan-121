@@ -62,7 +62,8 @@
 
 ## 🔗 Links  
 - **LinkedIn**: [Manthan Mistry](https://www.linkedin.com/in/manthanmistry121/)  
-- **Email**: [manthanmistry0121@outlook.com](mailto:manthanmistry0121@outlook.com)  
+- **Email**: [manthanmistry0121@outlook.com](mailto:manthanmistry0121@outlook.com)
+- **Email**: [sondagarmanthan121@gmail.com](mailto:sondagarmanthan121@gmail.com)
 - **Portfolio**: [manthan121.freesite.online](https://manthan121.freesite.online/?i=1)
 
 ---
